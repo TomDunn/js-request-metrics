@@ -1,6 +1,6 @@
 {
   "name": "request-metrics",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A utility for gathering various metrics such as latencies, counts and flags",
   "main": "index.js",
   "scripts": {
