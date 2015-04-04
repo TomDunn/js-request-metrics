@@ -1,0 +1,19 @@
+{
+  "name": "request-metrics",
+  "version": "0.0.1",
+  "description": "A utility for gathering various metrics such as latencies, counts and flags",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "tidunn13@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.6.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.1",
+    "should": "^5.2.0",
+    "sinon": "^1.14.1"
+  }
+}
